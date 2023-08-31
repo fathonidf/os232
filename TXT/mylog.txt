@@ -1,0 +1,12 @@
+# START: Thu 31 Aug 2023 23:18
+# ##########################################
+# https://osp4diss.vlsm.org/ETC/logCodes.txt
+# ##########################################
+#
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode + Description List
+
+ZCZC W00 00 L00 attended class on tuesday
+ZCZC W00 00 L01 dummy quiz
+ZCZC W00 00 L02 doing weekly assignment 00
