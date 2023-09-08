@@ -19,3 +19,4 @@ ZCZC W01 90 L02 Classroom on Tuesday
 ZCZC W01 20 L01 Reading Scele as a preparation for announcements and weekly assignments
 ZCZC W01 60 L09 Doing Weekly Assignment 1
 ZCZC W01 60 L09 Reading Assignment for Video and Slides
+ZCZC W01 12 L05 Quiz 01
