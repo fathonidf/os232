@@ -20,3 +20,4 @@ ZCZC W01 20 L01 Reading Scele as a preparation for announcements and weekly assi
 ZCZC W01 60 L09 Doing Weekly Assignment 1
 ZCZC W01 60 L09 Reading Assignment for Video and Slides
 ZCZC W01 12 L05 Quiz 01
+ZCZC W01 60 L09 Finishing Weekly Assignment 1
