@@ -39,7 +39,7 @@ Command line utilities "awk"  is a text-processing program.  It is mostly used f
 <br>
 
 * [Linux Man Pages - A Quick Tutorial](https://youtu.be/uJnrh9hAQR0?si=O2c7Kx2VUdMyX-TY) ---
-[For a man page cheat sheet visit](https://www.linuxtrainingacademy.com/man)
+[MAN page cheat sheet](https://www.linuxtrainingacademy.com/man)
 
 <br>
 <hr>
