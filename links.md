@@ -1,5 +1,5 @@
 ---
-permalink: LINKS/
+permalink: os232/links.md
 ---
 
 # LINKS
