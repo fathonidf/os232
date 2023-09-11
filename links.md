@@ -4,5 +4,9 @@ permalink: LINKS/
 
 # LINKS
 
-[Linux Crash Course - nano (command-line text editor)](https://www.youtube.com/watch?v=DLeATFgGM-A)
-A crash course for nano, an alternative to vi editor. I personally prefer using nano because the commands in it are simpler than vi, making it easier to use.
+* [Linux Crash Course - nano (command-line text editor)](https://www.youtube.com/watch?v=DLeATFgGM-A) ---
+Some easy-to-use commands you can use to inspect hardware. 
+These commands will help you list PCI devices, view information about your CPU, and more.
+
+<br>
+<hr>
