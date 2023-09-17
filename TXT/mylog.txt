@@ -24,3 +24,4 @@ ZCZC W01 60 L32 YouTube: watching OS Playlists
 ZCZC W01 12 L05 Quiz 01
 ZCZC W01 60 L11 Finishing Weekly Assignment 1
 ZCZC W01 30 L03 GitHub and git related, including commit, push, pull
+ZCZC W02 60 L09 Weekly Assignment 2
