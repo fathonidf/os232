@@ -42,4 +42,8 @@ Command line utilities "awk"  is a text-processing program.  It is mostly used f
 [MAN page cheat sheet](https://www.linuxtrainingacademy.com/man)
 
 <br>
+
+* [Cyber Security For Beginners](https://youtu.be/U_P23SqJaDc?si=RPLTsxof22Pr3yCY) ---
+In this complete cyber security course you will learn everything you need in order to understand cyber security in depth. You will learn all the terminology related to cyber security. Which is very crucial in the field of IT security.
+
 <hr>
