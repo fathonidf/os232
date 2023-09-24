@@ -31,3 +31,8 @@ ZCZC W02 10 L05 Quiz 01 Week 02
 ZCZC W02 30 L03 Repairing my git branch
 ZCZC W02 20 L08 OS Chat related with friends about my git problem
 ZCZC W02 60 L32 Watching youtube OS playlist to study
+ZCZC W03 60 L13 Finishing Weekly Assignment 3
+ZCZC W03 30 L08 OS Chat related with friend discussing
+ZCZC W03 40 L30 Watching Udacity explaining about File System
+ZCZC W03 10 L62 Backup Virtual Box
+ZCZC W03 12 L05 Quiz 01 Week 03

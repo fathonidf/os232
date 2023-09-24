@@ -50,4 +50,16 @@ Command line utilities "awk"  is a text-processing program.  It is mostly used f
 * [Cyber Security For Beginners](https://youtu.be/U_P23SqJaDc?si=RPLTsxof22Pr3yCY) ---
 In this complete cyber security course you will learn everything you need in order to understand cyber security in depth. You will learn all the terminology related to cyber security. Which is very crucial in the field of IT security.
 
+<br>
+
+### WEEK 3
+
+* [File System Concept Udacity](https://youtu.be/mzUyMy7Ihk0?si=ZBLCcaddpSMRh-1Q) ---
+File System Concept explained in a nutshell by Udacity
+
+<br>
+
+* [Files & File Systems: Crash Course Computer Science #20](https://youtu.be/KN8YgJnShPM?si=iQcfaHBRxsfdmg5N) ---
+Look how our computers read and interpret computer files. We’ll talk about how some popular file formats like txt, wave, and bitmap are encoded and decoded giving us pretty pictures and lifelike recordings from just strings of 1’s and 0’s, and we’ll discuss how our computers are able to keep all this data organized and readily accessible to users.
+
 <hr>
