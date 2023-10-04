@@ -62,4 +62,12 @@ File System Concept explained in a nutshell by Udacity
 * [Files & File Systems: Crash Course Computer Science #20](https://youtu.be/KN8YgJnShPM?si=iQcfaHBRxsfdmg5N) ---
 Look how our computers read and interpret computer files. We’ll talk about how some popular file formats like txt, wave, and bitmap are encoded and decoded giving us pretty pictures and lifelike recordings from just strings of 1’s and 0’s, and we’ll discuss how our computers are able to keep all this data organized and readily accessible to users.
 
+<br>
+
+### WEEK 4
+
+* [Pointer Udacity](https://youtu.be/ORWALSp4AX0?si=sVw1KJ4dNNx5Y1BY) ---
+
+* [Linux Programming](https://youtu.be/sWbUDq4S6Y8?si=sYr2PJqlnPlINXiL) ---
+
 <hr>
