@@ -36,3 +36,8 @@ ZCZC W03 30 L08 OS Chat related with friend discussing
 ZCZC W03 40 L30 Watching Udacity explaining about File System
 ZCZC W03 10 L62 Backup Virtual Box
 ZCZC W03 12 L05 Quiz 01 Week 03
+ZCZC W04 60 L09 Finishing Weekly Assignment 4
+ZCZC W04 30 L08 OS Chat related with friends about weekly assignment 4 and pop quiz
+ZCZC W04 30 L32 Watching OS related topics on youtube
+ZCZC W04 10 L41 updating mylog.txt
+ZCZC W04 100 L02 CLASSROOM attended
