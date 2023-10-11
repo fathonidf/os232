@@ -41,3 +41,8 @@ ZCZC W04 30 L08 OS Chat related with friends about weekly assignment 4 and pop q
 ZCZC W04 30 L32 Watching OS related topics on youtube
 ZCZC W04 10 L41 updating mylog.txt
 ZCZC W04 100 L02 CLASSROOM attended
+ZCZC W05 100 L02 CLASSROOM attended
+ZCZC W05 60 L09 Finishing Weekly Assignment 5
+ZCZC W05 30 L08 OS Chat with friends who helped me on this weekly assignment
+ZCZC W05 30 L32 Watching OS related topics on youtube
+ZCZC W05 10 L41 updating mylog.txt

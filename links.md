@@ -70,4 +70,8 @@ Look how our computers read and interpret computer files. We’ll talk about how
 
 * [Linux Programming](https://youtu.be/sWbUDq4S6Y8?si=sYr2PJqlnPlINXiL) ---
 
+<br>
+
+* [Why Virtual Memory](https://youtu.be/3kRBVdnLBW4?si=Y3sjVMqmxA_j9TP9) ---
+
 <hr>
