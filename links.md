@@ -72,6 +72,18 @@ Look how our computers read and interpret computer files. We’ll talk about how
 
 <br>
 
+### WEEK 5
+
 * [Why Virtual Memory](https://youtu.be/3kRBVdnLBW4?si=Y3sjVMqmxA_j9TP9) ---
+
+
+<br>
+
+### WEEK 6
+
+* [Processes and Threads (Concurrency Basics)](https://youtu.be/Wv7mzX8w3jI?si=XOIps17w1YsJyg32) ---
+A quick video about the differences between processes and threads, and concurrency vs parallelism.  These is cover part of Concurrency Basics, including multithreading optimization. 
+
+* [Concurrency](https://youtu.be/xPiu2IzsGfY?si=zHTFaDoFyMjq1QRS) ---
 
 <hr>
