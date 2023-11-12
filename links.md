@@ -87,3 +87,7 @@ A quick video about the differences between processes and threads, and concurren
 * [Concurrency](https://youtu.be/xPiu2IzsGfY?si=zHTFaDoFyMjq1QRS) ---
 
 <hr>
+
+### WEEK 7
+
+* [Synchronization](https://youtu.be/zfffe6dkj8Y?si=X3kdiboGE5-jyP5J)

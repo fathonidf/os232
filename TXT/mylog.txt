@@ -52,3 +52,7 @@ ZCZC W06 30 L30 Watching Udacity Concurrency
 ZCZC W06 60 L09 Finishing Weekly Assignment 6
 ZCZC W06 20 L08 OS Chat related with friends
 ZCZC W06 15 L05 Quiz 01 Week 06
+ZCZC W07 30 L30 Watching Udacity Synchronization
+ZCZC W07 60 L09 Finishing Weekly Assignment 7
+ZCZC W07 20 L08 OS Chat related with friends
+ZCZC W07 15 L05 Quiz 01 Week 07
