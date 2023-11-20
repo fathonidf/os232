@@ -91,3 +91,7 @@ A quick video about the differences between processes and threads, and concurren
 ### WEEK 7
 
 * [Synchronization](https://youtu.be/zfffe6dkj8Y?si=X3kdiboGE5-jyP5J)
+
+### WEEK 8
+
+* [Linux For Scratch](https://youtu.be/uggsnHSELos?si=cx_BumUP9ogQbr7x)
